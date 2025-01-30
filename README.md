@@ -1,0 +1,1 @@
+**to run**: `cargo run -- 2025-03-01` - like this, fill in the starting date 
