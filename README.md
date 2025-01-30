@@ -1,6 +1,8 @@
 Wedding errands time frame calculator, written for the single purpose of helping my beloved (and myself, to be fair) to adjust our actions without worrying too much.
 
-**to do**: actually display dates in order
+**to do**: 
+- actually display dates in order
+- add modes (paranoid, optimistic, docs are ready too soon, docs are taking too long)
 
 **to run**: `cargo run -- 2025-03-01` - like this, fill in the starting date 
 
